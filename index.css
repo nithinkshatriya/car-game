@@ -1,0 +1,15 @@
+.car-image{
+  position:absolute;
+  top: 20px;
+  left: 30px;
+  height: 90px;
+  width: 60px;
+  transform: rotate(90deg);
+  transition: 0.2s;
+}
+
+
+body{
+  overflow: hidden;
+  
+}
